@@ -87,11 +87,11 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-            <div className="flex flex-col w-full items-center">
+            {/* <div className="flex flex-col w-full items-center">
                 <span>by kamgang william</span>
                 <a href="https://wa.me/237673993240?text=bonjour">whatsapp : 653219096</a>
                 <a href="mailto:kamgangwilliam2021@gmail.com">mail : kamgangwilliam2021@gmail.com</a>
-            </div>
+            </div> */}
         </footer>
     );
 }

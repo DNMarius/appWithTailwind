@@ -54,7 +54,7 @@ export default function Header() {
                     <button onClick={togleMenuDisplay} className="flex items-center hidden" id="Menu">
                         Menu
                     </button>
-                    <div className="flex py-4 bg-white" id= "menuToDisplay">
+                    <div className="flex py-4 bg-white" id="menuToDisplay">
                         <button className="flex items-center px-6">
                             Find Jobs
                             {/* prettier-ignore */}

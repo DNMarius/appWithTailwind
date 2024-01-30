@@ -12,25 +12,25 @@ export default function Presentation() {
                     </div>
                 </div>
                 <div className="w-[450px] h-[480px] px-4 PresentationTextContainer">
-                    <h1 className="text-3xl font-bold">Millions of Jobs. Find the one that suits you.</h1>
-                    <h2 className="text-xs py-4 pr-8 text-zinc-400 leading-6">Seach all the open position on the web. Get your own personalized salary estimate. Read reviews of 600,000 compagnies worldwide</h2>
+                    <h1 className="text-3xl font-bold">Accéder aux réseaux de clients et de partenaires</h1>
+                    <h2 className="text-xs py-4 pr-8 text-zinc-400 leading-6">Se connecter à des réseaux externes de manière cohérente, sécurisée et reproductible sans nécessiter de modifications des configurations réseau.</h2>
                     <div className="flex items-center py-3 text-black">
                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                             <path d="M912 190h-69.9c-9.8 0-19.1 4.5-25.1 12.2L404.7 724.5 207 474a32 32 0 0 0-25.1-12.2H112c-6.7 0-10.4 7.7-6.3 12.9l273.9 347c12.8 16.2 37.4 16.2 50.3 0l488.4-618.9c4.1-5.1.4-12.8-6.3-12.8z"></path>
                         </svg>
-                        <p className="px-3 text-black">Bring to the table win-win survival</p>
+                        <p className="px-3 text-black">Accès à des environnements de développement distants</p>
                     </div>
                     <div className="flex items-center py-3 text-black">
                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                             <path d="M912 190h-69.9c-9.8 0-19.1 4.5-25.1 12.2L404.7 724.5 207 474a32 32 0 0 0-25.1-12.2H112c-6.7 0-10.4 7.7-6.3 12.9l273.9 347c12.8 16.2 37.4 16.2 50.3 0l488.4-618.9c4.1-5.1.4-12.8-6.3-12.8z"></path>
                         </svg>
-                        <p className="px-3 text-black">Capitalize on low hanging fruit to identify</p>
+                        <p className="px-3 text-black">Génération d'url rapide et efficasse</p>
                     </div>
                     <div className="flex items-center py-3 text-black">
                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                             <path d="M912 190h-69.9c-9.8 0-19.1 4.5-25.1 12.2L404.7 724.5 207 474a32 32 0 0 0-25.1-12.2H112c-6.7 0-10.4 7.7-6.3 12.9l273.9 347c12.8 16.2 37.4 16.2 50.3 0l488.4-618.9c4.1-5.1.4-12.8-6.3-12.8z"></path>
                         </svg>
-                        <p className="px-3 text-black">But i must explain to you how all this</p>
+                        <p className="px-3 text-black">Payez en quelques click</p>
                     </div>
                     <button className="text-white mt-4 px-12 py-3 bg-blue-600 rounded-md flex items-center">
                         Get started
